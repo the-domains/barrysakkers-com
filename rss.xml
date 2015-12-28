@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[barrysakkers.com]]></title>
+        <description><![CDATA[barrysakkers.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Dec 2015 16:41:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test]]></title>
+            <description><![CDATA[<article><h1>Test</h1><p>Barry's website</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a4181a8-c9d6-45e0-9525-09943434b276.jpg"></article>]]></description>
+            <link>undefinedtest/index.html</link>
+            <guid isPermaLink="false">07fcc78b-c94a-4c25-ac71-99756c3a9d77</guid>
+            <pubDate>Mon, 28 Dec 2015 16:41:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
