@@ -1,6 +1,6 @@
 name: barrysakkers.com
 favicon: null
-layout_spectrum: 0.98564
+layout_spectrum: 1
 typography_spectrum: 0.58536
 title: barrysakkers.com
 cta:
@@ -23,7 +23,7 @@ color:
     - '#040404'
     - '#50cecd'
   brandStrength: 0.9135841878596693
-  lightness: 0.7546565206721425
-  saturation: 0.04599672113545239
-  rhythmicContrast: 0.5855213236063719
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
