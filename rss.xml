@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[barrysakkers.com]]></title>
         <description><![CDATA[barrysakkers.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/barrysakkers-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 17:02:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Dec 2015 17:03:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/barrysakkers-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test]]></title>
+            <description><![CDATA[<article><h1>Test</h1><p>Barry's website</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9356b196f1bd135b14402ec0ef81c6a1b1ef5743.jpg"></article>]]></description>
+            <link>https://thegrid.ai/barrysakkers-com/test/index.html</link>
+            <guid isPermaLink="false">07fcc78b-c94a-4c25-ac71-99756c3a9d77</guid>
+            <pubDate>Mon, 28 Dec 2015 17:03:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Surfdome | SURF, SNOW, SKATE Clothing & Equipment]]></title>
             <description><![CDATA[<article><h1>Surfdome | SURF, SNOW, SKATE Clothing & Equipment</h1><p>Over 600 Surf, Snow, Skate and Outdoor brands with FREE DELIVERY* available on clothing, footwear, accessories & equipment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/609730edb23f53bfa33d3cfa20b375f46ad01838.jpg"></article>]]></description>
