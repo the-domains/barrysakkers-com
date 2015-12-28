@@ -1,0 +1,28 @@
+name: barrysakkers.com
+favicon: null
+layout_spectrum: 0.20971436402760446
+typography_spectrum: 0.046508978586643934
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9135841878596693
+  lightness: 0.7546565206721425
+  saturation: 0.04599672113545239
+  rhythmicContrast: 0.5855213236063719
+purpose: []
