@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[barrysakkers.com]]></title>
+        <description><![CDATA[barrysakkers.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Dec 2015 17:02:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Surfdome | SURF, SNOW, SKATE Clothing & Equipment]]></title>
+            <description><![CDATA[<article><h1>Surfdome | SURF, SNOW, SKATE Clothing & Equipment</h1><p>Over 600 Surf, Snow, Skate and Outdoor brands with FREE DELIVERY* available on clothing, footwear, accessories & equipment.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/609730edb23f53bfa33d3cfa20b375f46ad01838.jpg"></article>]]></description>
+            <link>https://www.surfdome.com/</link>
+            <guid isPermaLink="false">e30eed2d-547f-4f67-b668-463845ddc107</guid>
+            <pubDate>Mon, 28 Dec 2015 17:02:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
