@@ -1,20 +1,4 @@
-name: barrysakkers.com
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.58536
-title: barrysakkers.com
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#e5e6de'
@@ -26,4 +10,24 @@ color:
   lightness: 1
   saturation: 0
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: barrysakkers.com
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Test
+    id: 07fcc78b-c94a-4c25-ac71-99756c3a9d77
+    type: content
+favicon: null
+title: barrysakkers.com
 purpose: []
